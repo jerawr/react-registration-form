@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/docs/react/extended/registration-form/static/css/main.7b6c099d.css",
+    "main.js": "/docs/react/extended/registration-form/static/js/main.e7a7b37e.js",
+    "static/js/453.b623ab4f.chunk.js": "/docs/react/extended/registration-form/static/js/453.b623ab4f.chunk.js",
+    "index.html": "/docs/react/extended/registration-form/index.html",
+    "main.7b6c099d.css.map": "/docs/react/extended/registration-form/static/css/main.7b6c099d.css.map",
+    "main.e7a7b37e.js.map": "/docs/react/extended/registration-form/static/js/main.e7a7b37e.js.map",
+    "453.b623ab4f.chunk.js.map": "/docs/react/extended/registration-form/static/js/453.b623ab4f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b6c099d.css",
+    "static/js/main.e7a7b37e.js"
+  ]
+}
